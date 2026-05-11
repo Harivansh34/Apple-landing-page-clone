@@ -263,15 +263,15 @@ body {
     }
 
     .hero{
-        background-image: url(appple3.jpg);
         background-size: 200%;
         background-position: center;
+        background-repeat: no-repeat;
 }
 
     .hero2{
-         background-image:url(applewatch.jpg);
          background-position: center;
          background-size: 200%;
+         background-repeat: no-repeat;
 }
 
 }
