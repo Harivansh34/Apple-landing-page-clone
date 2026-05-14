@@ -8,7 +8,7 @@ The goal of this project was to improve my frontend development skills and under
 
 ## 🚀 Live Demo
 
-🔗 https://harivansh34.github.io/Web-projects/
+🔗 https://harivansh34.github.io/Apple-landing-page-clone/
 
 ---
 
